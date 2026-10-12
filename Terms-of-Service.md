@@ -4,8 +4,6 @@
 
 **Última atualização:** 12 de outubro de 2026
 
-> **Como usar este modelo:** substitua tudo que estiver entre `[COLCHETES]`, confira se cada ponto bate com o que o bot realmente faz (principalmente a seção 5, sobre dados) e apague o que não se aplicar. Este é um modelo geral e não substitui a orientação de um advogado.
-
 ## 1. Aceitação dos termos
 
 Ao adicionar o **Mineping** ("Bot") a um servidor do Discord ou ao usar qualquer um dos seus comandos, você declara que leu e concorda com estes Termos de Serviço ("Termos"). Se não concordar, não use o Bot.
